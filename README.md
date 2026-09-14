@@ -1,11 +1,29 @@
+# Sistema de Estoque de Papelaria
 
-  # Sistema de Estoque de Papelaria
+Projeto desenvolvido para praticar conceitos de desenvolvimento de software e criação de interfaces.
 
-  This is a code bundle for Sistema de Estoque de Papelaria. The original project is available at https://www.figma.com/design/KSnjJsoMk37JeFP7TRmh77/Sistema-de-Estoque-de-Papelaria.
+## Objetivo
 
-  ## Running the code
+Criar uma interface para controle de estoque de uma papelaria, permitindo visualizar e organizar produtos de forma simples.
 
-  Run `npm i` to install the dependencies.
+## Tecnologias utilizadas
 
-  Run `npm run dev` to start the development server.
-  
+- TypeScript
+- HTML
+- CSS
+- Vite
+- Figma
+
+## Origem do projeto
+
+A interface foi baseada em um protótipo criado no Figma e depois transformada em código.
+
+## O que aprendi
+
+Durante o desenvolvimento, pratiquei organização de projeto, estrutura de front-end e transformação de um protótipo visual em uma aplicação funcional.
+
+## Como executar
+
+```bash
+npm install
+npm run dev
